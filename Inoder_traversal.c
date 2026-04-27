@@ -71,6 +71,7 @@ int main()
 }
 
 /*
+Example of this code is here:
 Enter root node value: 50
 Enter left child of root: 30
 Enter right child of root: 10
@@ -80,5 +81,4 @@ Enter left child of right node: 60
 Enter right child of right node: 80
 
 Inorder traversal: 20 30 40 50 60 10 80
-
 */
